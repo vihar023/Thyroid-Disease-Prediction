@@ -57,7 +57,6 @@ This project includes a Power BI dashboard that provides interactive visualizati
 - Cancer Staging & Treatment Response
 - Recurrence heatmaps and slicers by age, gender, pathology, etc.
 
-📁 Power BI file: [`dashboards/thyroid_dashboard.pbix`](./dashboards/thyroid_dashboard.pbix)
 
 
 ## 🏥 Use Cases
@@ -114,4 +113,4 @@ This means the patient is **unlikely to experience recurrence**, with a **97.9%*
 
 ## 📄 Reports
 
-A detailed project report is included in [`/reports/Thyroid_Disease_Prediction_Report.pdf`](./dashboards/thyroid_dashboard.pbix), covering methodology, model performance, results, and recommendations.
+A detailed project report is included in [`/reports/Thyroid_Disease_Prediction_Report.pdf`](https://github.com/vihar023/Thyroid-Disease-Prediction/blob/main/Thyroid_Disease_Prediction_Report.pdf), covering methodology, model performance, results, and recommendations.
